@@ -6,8 +6,7 @@ A simple, interactive **Tic Tac Toe** (X & O) game built using **HTML**, **CSS**
 
 This is a browser-based game with a clean and minimalistic UI. It provides real-time interaction between two players and detects win, loss, or draw outcomes.
 
-![G![Screenshot 2025-04-13 154902](https://github.com/user-attachments/assets/a66f9ce3-628c-4ed3-98f0-bf8553d45e3a)
-ame Screenshot]
+[Screenshot 2025-04-13 154902](https://github.com/user-attachments/assets/a66f9ce3-628c-4ed3-98f0-bf8553d45e3a)
 
 
 ![Screenshot 2025-04-13 154915](https://github.com/user-attachments/assets/7386f81f-6f7c-4ea2-9530-dce421e78ebc)
@@ -37,5 +36,20 @@ ame Screenshot]
 | ![JavaScript](https://img.icons8.com/color/48/javascript.png) | Game logic and interactivity |
 | ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png) | Code editor used for development |
 
-## 📂 Folder Structure
+
+## ⚙️ How to Use
+
+### 🔧 Setting Up Locally
+
+1. **Clone or download** the repository:
+   ```bash
+   git clone https://github.com/yourusername/tic-tac-toe.git
+   cd tic-tac-toe
+2. Open the game:
+
+    -Simply open the index.html file in your web browser.
+
+3. Or use Live Server (recommended in VS Code):
+
+   -Right-click on index.html → "Open with Live Server"
 
