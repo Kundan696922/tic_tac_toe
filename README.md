@@ -24,8 +24,7 @@ This is a browser-based game with a clean and minimalistic UI. It provides real-
 
 ## 🚀 Demo
 
-> You can play the game live here: [https://tic-tac-toe-6969.netlify.app/](#)  
-*(Replace with GitHub Pages or your live link)*
+> You can play the game live here: [https://tic-tac-toe-6969.netlify.app](#)  
 
 ## 🧰 Tools Used
 
