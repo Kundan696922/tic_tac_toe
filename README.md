@@ -24,7 +24,7 @@ This is a browser-based game with a clean and minimalistic UI. It provides real-
 
 ## 🚀 Demo
 
-> You can play the game live here: [Live Demo](#)  
+> You can play the game live here: [https://tic-tac-toe-6969.netlify.app/](#)  
 *(Replace with GitHub Pages or your live link)*
 
 ## 🧰 Tools Used
@@ -47,9 +47,9 @@ This is a browser-based game with a clean and minimalistic UI. It provides real-
    cd tic-tac-toe
 2. Open the game:
 
-    -Simply open the index.html file in your web browser.
+   - Simply open the index.html file in your web browser.
 
 3. Or use Live Server (recommended in VS Code):
 
-   -Right-click on index.html → "Open with Live Server"
+   - Right-click on index.html → "Open with Live Server"
 
