@@ -42,8 +42,8 @@ This is a browser-based game with a clean and minimalistic UI. It provides real-
 
 1. **Clone or download** the repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
-   cd tic-tac-toe
+   git clone https://github.com/Kundan696922/tic_tac_toe.git
+   
 2. Open the game:
 
    - Simply open the index.html file in your web browser.
