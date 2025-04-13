@@ -6,7 +6,7 @@ A simple, interactive **Tic Tac Toe** (X & O) game built using **HTML**, **CSS**
 
 This is a browser-based game with a clean and minimalistic UI. It provides real-time interaction between two players and detects win, loss, or draw outcomes.
 
-[Screenshot 2025-04-13 154902](https://github.com/user-attachments/assets/a66f9ce3-628c-4ed3-98f0-bf8553d45e3a)
+![Screenshot 2025-04-13 154902](https://github.com/user-attachments/assets/a66f9ce3-628c-4ed3-98f0-bf8553d45e3a)
 
 
 ![Screenshot 2025-04-13 154915](https://github.com/user-attachments/assets/7386f81f-6f7c-4ea2-9530-dce421e78ebc)
