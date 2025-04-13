@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+:root {
+    /* --main-1: #EAF27C;
+    --main-2: #CE8964;
+    --main-3: #832232;
+    --main-4: #370031;
+    --main-5: #0B0033; */
+    --main-1: #e7ffee;
+    --main-2: #eda031;
+    --main-3: #272946;
+
+}
+body {
+    background-color: var(--main-1);
+    color: var(--main-2);
+    text-align: center;
+}
+
+h1 {
+    margin-top: 2rem;
+    font-size: 2.5rem;
+    color: var(--main-3);
+    text-decoration:underline var(--main-2);
+}
+
+.container {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+
+.game {
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+
+.box {
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+    font-size: 8vmin;
+    color: var(--main-1);
+    background-color: var(--main-3);
+    margin-top: -2rem;
+}
+
+#reset-btn {
+   padding: 1rem; 
+   font-size: 1.25rem;
+   background-color: var(--main-3);
+   color: var(--main-1);
+   border-radius: 1rem;
+   border: none;
+   margin-top: -2rem;
+}
+
+#reset-btn:hover {
+    background-color: var(--main-2);
+    color: var(--main-3);
+}
+
+#new-btn {
+    padding: 1rem; 
+    font-size: 1.25rem;
+    background-color: var(--main-3);
+    color: var(--main-1);
+    border-radius: 1rem;
+    border: none;
+    margin-top: 1rem;
+}
+
+#new-btn:hover {
+    background-color: var(--main-2);
+    color: var(--main-3);
+}
+
+#msg {
+    color: var(--main-3);
+    font-size: 4.5vmin;
+    margin-top: 1rem;
+    font-weight: bold;
+    text-decoration: underline var(--main-2);
+}
+
+.msg-container {
+    height: 25vmin;
+    margin-bottom: -6rem;
+}
+
+.hide {
+    display: none;
+} 
